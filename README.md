@@ -1,5 +1,5 @@
 # HTML Calculator
-A Straight-Forward Calculator I made on my journey to learn web-dev.
+A Straight-Forward Calculator I made on my journey to learn web-dev. It's not exactly "COOL" but it gets the job done. 
 
 <img width="50%" alt="Task View" src="https://github.com/ign-ite/htmlcalc/blob/main/Calculator/Assets/qn.png"><img width="50%" alt="Task View" src="https://github.com/ign-ite/htmlcalc/blob/main/Calculator/Assets/ans.png">
 
@@ -10,6 +10,7 @@ A Straight-Forward Calculator I made on my journey to learn web-dev.
 
 - Can perform basic arithmetic operations.
 - Follows BODMAS/PEDMAS Rule.
+- 
 
 ## Run Locally
 
